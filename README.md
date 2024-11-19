@@ -1,4 +1,4 @@
-# M.U.N.C.H. (Mobile Utility for Nourishing Campus Hunger)
+# M.U.N.C.H. (Mobile Utility for Nourishing Campus Hunger) Monarch
 
 MUNCH: A pioneering web app tailored for college students, MUNCH redefines campus dining. Seamlessly order delicious meals from your hostel, customize your preferences, and enjoy hassle-free transactions. Real-time tracking, dietary accommodations, and record maintenance ensure a delightful experience. Explore the future of food convenience!
 
